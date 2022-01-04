@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+article{
+    border: 1px solid;
+    display: inline-block;
+    height: 22vh;
+    width: 22vw;
+    margin: 2%;
+}
+
+article h1{
+    font-size: 3vh;
+    margin: 10% 10% 5% 10%;
+}
+
+ul li{
+    font-size: 2vh;
+    list-style: none;
+    margin: 0 10% 0 10%;
+}
